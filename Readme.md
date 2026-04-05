@@ -72,7 +72,7 @@ Easy → Medium
 
 ## 👤 Author
 
-blackfox🦊
+Parvathy P Joshy
 Cybersecurity Enthusiast | Offensive Security
 
 ---
