@@ -49,6 +49,7 @@ Easy → Medium
 
 ## 🏁 Flags
 
+* FLAG{ghost_in_markup}
 * FLAG{entry_point_compromised}
 * FLAG{devs_are_lazy}
 * FLAG{user_shell_obtained}
